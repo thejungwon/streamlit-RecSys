@@ -1,5 +1,6 @@
 # Streamlit RecSys
-
+## Demo
+[Streamlit Cloud](https://share.streamlit.io/thejungwon/streamlit-recsys/main/main.py)
 ## Preview
 
 ![demo](demo.gif "demo")
